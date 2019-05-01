@@ -1,0 +1,21 @@
+{
+  "name": "azure-scripts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node /home/site/repository/week6/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dernestnelson/azure-scripts.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dernestnelson/azure-scripts/issues"
+  },
+  "homepage": "https://github.com/dernestnelson/azure-scripts#readme"
+}
