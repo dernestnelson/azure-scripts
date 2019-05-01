@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node /home/site/repository/week6/index.js",
+    "start": "node /home/site/repository/azure-scripts/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
